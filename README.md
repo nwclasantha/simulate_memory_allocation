@@ -1,5 +1,7 @@
 This Perl script is refactored to use object-oriented programming (OOP) principles. It allocates memory on the system based on user input and provides options to either allocate a specific number of megabytes (MB) or a percentage of the total system memory. The script is organized into a class structure to improve modularity and maintainability. Below is a detailed explanation of each part of the script.
 
+![JQnkiZXC2BpyidoyXuTbSS](https://github.com/user-attachments/assets/f0e71913-621e-4380-8e92-2fa29964d680)
+
 ### 1. **Logging Setup**:
 ```perl
 use Log::Log4perl;
